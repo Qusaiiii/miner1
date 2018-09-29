@@ -28,4 +28,4 @@ function timerFunc() {
 
 var timer = setTimeout(timerFunc, 1000);
 
-client.login("NDk1MzIwNjkzMjQwNzU4Mjcz.DpAZww.Iuv6_aoHzbruJtU3-D7dWA4JcTk");
+client.login(process.env.BOT_TOKEN);
