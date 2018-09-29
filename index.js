@@ -1,5 +1,5 @@
-var ServerID = "485545464242896896"; //اي دي السيرفر
-var ChannelID = "495324488406138901";// اي دي الروم
+var ServerID = "414742520908480522"; //اي دي السيرفر
+var ChannelID = "495241116703260672";// اي دي الروم
 
 
 const Discord = require('discord.js');
